@@ -1,0 +1,4 @@
+100     gaby     t     f     7     2
+100     wakam     s     s     4     5
+100     lolo     f     g     2     5
+101     kiki     k     r     7     6
